@@ -1,0 +1,14 @@
+E:\infó érettségi\2020 okt\prog\obj\Debug\net8.0\prog.GeneratedMSBuildEditorConfig.editorconfig
+E:\infó érettségi\2020 okt\prog\obj\Debug\net8.0\prog.AssemblyInfoInputs.cache
+E:\infó érettségi\2020 okt\prog\obj\Debug\net8.0\prog.AssemblyInfo.cs
+E:\infó érettségi\2020 okt\prog\obj\Debug\net8.0\prog.csproj.CoreCompileInputs.cache
+E:\infó érettségi\2020 okt\prog\bin\Debug\net8.0\prog.exe
+E:\infó érettségi\2020 okt\prog\bin\Debug\net8.0\prog.deps.json
+E:\infó érettségi\2020 okt\prog\bin\Debug\net8.0\prog.runtimeconfig.json
+E:\infó érettségi\2020 okt\prog\bin\Debug\net8.0\prog.dll
+E:\infó érettségi\2020 okt\prog\bin\Debug\net8.0\prog.pdb
+E:\infó érettségi\2020 okt\prog\obj\Debug\net8.0\prog.dll
+E:\infó érettségi\2020 okt\prog\obj\Debug\net8.0\refint\prog.dll
+E:\infó érettségi\2020 okt\prog\obj\Debug\net8.0\prog.pdb
+E:\infó érettségi\2020 okt\prog\obj\Debug\net8.0\prog.genruntimeconfig.cache
+E:\infó érettségi\2020 okt\prog\obj\Debug\net8.0\ref\prog.dll
